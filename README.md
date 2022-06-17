@@ -3,3 +3,6 @@ Predicting weather is an importamt aspect of daily life. Various meteorological 
 
 #About the dataset
 The dataset has been obtained from the website of Australian Government,Bureau of Meteorology.It includes 23 columns. The target variable is RainTomorrow.Features like Minimum Temperature,Rainfall,WindDirection etc have been used to make the prediction.
+
+Models that have been used here 
+Decision Tree,AdaBoostClassifier, Naive Bayes,KNN, StackingCLassifier 
