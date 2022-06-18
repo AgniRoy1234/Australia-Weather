@@ -3,6 +3,7 @@ Predicting weather is an importamt aspect of daily life. Various meteorological 
 
 #About the dataset
 The dataset has been obtained from the website of Australian Government,Bureau of Meteorology.
+
 Quoting from the website
 "These observations have been taken from the Bureau of Meteorology's "real time" system. Most of the data are generated and handled automatically. Some quality checking has been performed, but it is still possible for erroneous values to appear.
 
